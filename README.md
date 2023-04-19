@@ -1,3 +1,2 @@
-# Wemos D1 Mini board with mains power
+## wemos-mains-dev
 
-## Setup 

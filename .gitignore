@@ -3,7 +3,7 @@
 *-backups
 fp-info-cache
 \#auto_saved_files#
-_autosave-
+_autosave-*
 
 #PCB Production and JLCPCB specific files
 jlcpcb/gerber

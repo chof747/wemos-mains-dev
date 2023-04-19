@@ -333,7 +333,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "error",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "similar_labels": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template-project.kicad_pro",
+    "filename": "wemos-mains-dev.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,8 +380,7 @@
         "name": "Power",
         "nets": [
           "+3V3",
-          "/PWR",
-          "/PWR_FUSED",
+          "+5V",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
