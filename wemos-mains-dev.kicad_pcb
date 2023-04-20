@@ -358,7 +358,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ab3da416-23d7-4c87-a5a2-96328849a0d9)
     )
-    (fp_text value "Conn_02x12_Odd_Even" (at 1.27 30.27) (layer "F.Fab")
+    (fp_text value "Conn_02x12_Odd_Even" (at -3.65 30.318) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2052c85c-9bfd-40d3-85f9-bbb96753e927)
     )
