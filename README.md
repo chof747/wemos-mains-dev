@@ -16,6 +16,6 @@ It contains the following elements:
 ## Revision History:
 
 - **v1.0**: Initial version (filed for fabrication: 19.04.2023)
-- **v1.1**: Revision 1 with corrected orientation of power supply and reduced ground plane to avoid collision with high voltage (filed for fabrication: 17.7.2023)
+- **v1.1**: Revision 1 with corrected orientation of power supply and reduced ground plane to avoid collision with high voltage (filed for fabrication: 17.7.2023; First Assembly 06.10.2023)
 
 
