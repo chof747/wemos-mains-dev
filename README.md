@@ -13,6 +13,12 @@ It contains the following elements:
 - ByPass Capacitors for the 3V3 and GND lines in vicinity to the One-Wire and analog pin
 - Screw Terminal to connect the board to mains
 
+## Features
+
+The breakout of the pins is designed in a way that it can support HATs of a certain form factor. So far I have designed the following HATs which you can find here:
+
+- RJ11 Socket HAT [chof747/rj11-wemos-hat](https://github.com/chof747/rj11-wemos-hat)
+
 ## Revision History:
 
 - **v1.0**: Initial version (filed for fabrication: 19.04.2023)
